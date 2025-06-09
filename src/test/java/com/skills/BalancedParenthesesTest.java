@@ -5,8 +5,6 @@ import org.junit.Test;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
-import src.main.java.com.skills.BalancedParentheses;
-
 /**
  * Created by sylvester
  * Email: musyokisyl81@gmail.com
